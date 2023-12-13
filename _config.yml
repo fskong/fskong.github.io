@@ -83,11 +83,11 @@ author:
   name             : "Fanshuang Kong(孔繁爽)"
   avatar           : "profile.png"
   bio              : "Ph.D. student at Beihang University"
-  # location         : "Location"
+  location         : "Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=-f4TdpYAAAAJ"
-  email            :
+  email            : "kongfs@act.buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
