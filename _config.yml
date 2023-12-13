@@ -7,7 +7,7 @@
 
 # Site Settings
 # locale                   : "en-US"
-title                    : "Fanshuang Kong / Personal Homepage"
+title                    : "Fanshuang Kong (孔繁爽)"
 title_separator          : "-"
 name                     : &name "Fanshuang Kong"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fanshuang Kong (孔繁爽)"
+  name             : "Fanshuang Kong"
   avatar           : "fskong.png"
   bio              : "Ph.D. student at Beihang University"
   location         : "Beijing, China"
