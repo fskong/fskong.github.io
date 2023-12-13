@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Beihang University, supervised by Pro. Richong Zhang.
+I am currently a Ph.D. student at Beihang University, supervised by Pro. Richong Zhang. Before that, I received my master's degree from Beihang University in 2019, also under the guidance of Prof. Zhang. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
 
 Publications
 ======
@@ -24,9 +24,8 @@ Publications
 
 Honors
 ======
-- 2021, Freshman Scholarship for Ph.D. Candidates of BUAA
+- 2021, Outstanding Freshman Scholarship of Beihang University
 - 2019, Outstanding Graduates of Beijing
-- 2019, Excellent Master Thesis of BUAA
+- 2019, Excellent Master Thesis of Beihang University
 - 2019, Shenzhen Stock Exchange Scholarship
-- 2018, First Prize Scholarship of BUAA
 - 2018, National Scholarship
