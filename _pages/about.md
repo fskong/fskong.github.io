@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Beihang University, supervised by Pro. Richong Zhang. Before that, I received my master's degree from Beihang University in 2019, also under the guidance of Prof. Zhang. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
+I am currently a Ph.D. student at Beihang University, supervised by Prof. Richong Zhang. Before that, I received my Master's degree from Beihang University in 2019, also under the supervision of Prof. Zhang.
+
+My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
 
 Publications
 ======
