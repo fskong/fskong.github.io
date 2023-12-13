@@ -20,3 +20,14 @@ Publications
 - **Fanshuang Kong**, Richong Zhang, Hongyu Guo, Samuel Mensah, Zhiyuan Hu and Yongyi Mao: A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity. **WWW 2019**.
 - **Fanshuang Kong**, Richong Zhang, Yongyi Mao and Ting Deng: LENA: Locality- Expanded Neural Embedding for Knowledge Base Completion. **AAAI 2019**.
 - Richong Zhang, **Fanshuang Kong**, Chenyue Wang, Yongyi Mao: Embedding of Hierarchically Typed Knowledge Bases. **AAAI 2018**.
+
+
+Honors
+======
+- 2021, Freshman Scholarship for Ph.D. Candidates of BUAA
+- 2019, Outstanding Graduates of Beijing
+- 2019, Excellent Master Thesis of BUAA
+- 2019, Shenzhen Stock Exchange Scholarship
+- 2018, First Prize Scholarship of BUAA
+- 2018, National Scholarship
+- 2013, National Scholarship
