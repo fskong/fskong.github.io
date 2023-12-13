@@ -30,4 +30,3 @@ Honors
 - 2019, Shenzhen Stock Exchange Scholarship
 - 2018, First Prize Scholarship of BUAA
 - 2018, National Scholarship
-- 2013, National Scholarship
