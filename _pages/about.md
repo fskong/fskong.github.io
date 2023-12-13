@@ -12,8 +12,8 @@ I am currently a Ph.D. student at Beihang University, supervised by Prof. Richon
 
 Publications
 ======
-- **Fanshuang Kong**, Richong Zhang, Ziqiao Wang and Yongyi Mao. On Unsupervised Domain Adaptation: Pseudo Label Guided Mixup for Adversarial Prompt Tuning. **AAAI 2024**.
-- Xuefeng Zhang, Richong Zhang, Xiaoyang Li, **Fanshuang Kong**, Junfan Chen, Samuel Mensah, and Yongyi Mao, Word Sense Disambiguation by Refining Target Word Embedding. **WWW 2023**.
+- **Fanshuang Kong**, Richong Zhang, Ziqiao Wang and Yongyi Mao: On Unsupervised Domain Adaptation: Pseudo Label Guided Mixup for Adversarial Prompt Tuning. **AAAI 2024**.
+- Xuefeng Zhang, Richong Zhang, Xiaoyang Li, **Fanshuang Kong**, Junfan Chen, Samuel Mensah, and Yongyi Mao: Word Sense Disambiguation by Refining Target Word Embedding. **WWW 2023**.
 - **Fanshuang Kong**, Richong Zhang, Xiaohui Guo, Samuel Mensah and Yongyi Mao: DropMix: A Textual Data Augmentation Combining Dropout with Mixup. **EMNLP 2023**.
 - Yuhang Bai, Richong Zhang, **Fanshuang Kong**, Junfan Chen and Yongyi Mao: Hypernym Discovery via a Recurrent Mapping Model. **Findings of ACL 2021**.
 - Richong Zhang, Samuel Mensah, **Fanshuang Kong**, Zhiyuan Hu, Yongyi Mao and Xudong Liu: Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities. **TOIS 2020**.
