@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fanshuang Kong \n (孔繁爽)"
+  name             : "Fanshuang Kong test \\n (孔繁爽)"
   avatar           : "fskong.png"
   bio              : "Ph.D. student at Beihang University"
   location         : "Beijing, China"
