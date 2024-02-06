@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+<a href="https://info.flagcounter.com/WtcO"><img src="https://s11.flagcounter.com/count2/WtcO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 I am currently a Ph.D. student at Beihang University, supervised by Prof. Richong Zhang. Before that, I received my Master's degree from Beihang University in 2019, also under the supervision of Prof. Zhang. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
 
 Publications
