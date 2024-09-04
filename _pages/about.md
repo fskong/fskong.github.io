@@ -18,7 +18,7 @@ Publications
 - <u>Fanshuang Kong</u>, Richong Zhang, Xiaohui Guo, Samuel Mensah and Yongyi Mao: DropMix: A Textual Data Augmentation Combining Dropout with Mixup. **EMNLP 2022**.
 - Yuhang Bai, Richong Zhang, <u>Fanshuang Kong</u>, Junfan Chen and Yongyi Mao: Hypernym Discovery via a Recurrent Mapping Model. **Findings of ACL 2021**.
 - Richong Zhang, Samuel Mensah, <u>Fanshuang Kong</u>, Zhiyuan Hu, Yongyi Mao and Xudong Liu: Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities. **TOIS 2020**.
-- <u>Fanshuang Kong</u>, Richong Zhang, Hongyu Guo, Samuel Mensah, Zhiyuan Hu and Yongyi Mao: A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity. **WWW 2019**. (Short Paper)
+- <u>Fanshuang Kong</u>, Richong Zhang, Hongyu Guo, Samuel Mensah, Zhiyuan Hu and Yongyi Mao: A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity. **WWW 2019**.
 - <u>Fanshuang Kong</u>, Richong Zhang, Yongyi Mao and Ting Deng: LENA: Locality- Expanded Neural Embedding for Knowledge Base Completion. **AAAI 2019**.
 - Richong Zhang, <u>Fanshuang Kong</u>, Chenyue Wang, Yongyi Mao: Embedding of Hierarchically Typed Knowledge Bases. **AAAI 2018**.
 
