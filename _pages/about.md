@@ -13,6 +13,7 @@ I am currently a Ph.D. student at Beihang University, supervised by Prof. Richon
 
 Publications
 ======
+- <u>Fanshuang Kong</u>, Richong Zhang and Ziqiao Wang: LH-Mix: Local Hierarchy Correlation Guided Mixup over Hierarchical Prompt Tuning. **KDD 2025**.
 - <u>Fanshuang Kong</u>, Richong Zhang, Ziqiao Wang and Yongyi Mao: On Unsupervised Domain Adaptation: Pseudo Label Guided Mixup for Adversarial Prompt Tuning. **AAAI 2024**.
 - Xuefeng Zhang, Richong Zhang, Xiaoyang Li, <u>Fanshuang Kong</u>, Junfan Chen, Samuel Mensah, and Yongyi Mao: Word Sense Disambiguation by Refining Target Word Embedding. **WWW 2023**.
 - <u>Fanshuang Kong</u>, Richong Zhang, Xiaohui Guo, Samuel Mensah and Yongyi Mao: DropMix: A Textual Data Augmentation Combining Dropout with Mixup. **EMNLP 2022**.
@@ -25,11 +26,13 @@ Publications
 
 Honors
 ======
+- 2024, National Scholarship
 - 2021, Outstanding Freshman Scholarship of Beihang University
 - 2019, Outstanding Graduates of Beijing
 - 2019, Excellent Master Thesis of Beihang University
 - 2019, Shenzhen Stock Exchange Scholarship
 - 2018, National Scholarship
+- 2013, National Scholarship
 
 
 
