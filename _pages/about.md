@@ -25,8 +25,9 @@ Publications
 
 ### Preprints
 
-1. <u>Fanshuang Kong</u>, Richong Zhang, Zhijie Nie and Ziqiao Wang: Rethink the Evaluation Protocol of Model Merging on Classification Task. Under Review.
+1. <u>Fanshuang Kong</u>, Richong Zhang, Zhijie Nie, Ziqiao Wang and Qiang Sun: Fine-tuning Aligned Classifiers for Merging Outputs: Towards a Superior Evaluation Protocol in Model Merging. Under Review.
 2. <u>Fanshuang Kong</u>, Richong Zhang and Ziqiao Wang: Activated Parameter Locating via Causal Intervention for Model Merging. Under Review.
+3. Junhao Zhang, Richong Zhang, <u>Fanshuang Kong</u>, Ziyang Miao, Yanhan Ye and Yaowei Zheng: Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation. Under Review.
 
 ### Others
 
