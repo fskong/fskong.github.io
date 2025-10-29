@@ -36,6 +36,7 @@ Publications
 3. Richong Zhang, Samuel Mensah, <u>Fanshuang Kong</u>, Zhiyuan Hu, Yongyi Mao and Xudong Liu: Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities. **TOIS 2020**.
 
 
+<!--
 Honors
 ======
 - 2024, National Scholarship
@@ -44,9 +45,6 @@ Honors
 - 2019, Excellent Master Thesis of Beihang University
 - 2018, National Scholarship
 - 2013, National Scholarship
+-->
 
 
-
-
-
-<a href="https://info.flagcounter.com/3YQV"><img src="https://s01.flagcounter.com/count2/3YQV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
