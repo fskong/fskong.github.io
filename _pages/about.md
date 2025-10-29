@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a postdoctoral researcher at the School of Software, Beihang University, supervised by Prof. Chunming Hu and Prof. Richong Zhang. Before that, I obtained my Ph.D. degree from Beihang University in June 2025. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
+I am currently a postdoctoral researcher at Beihang University, supervised by Prof. Chunming Hu and Prof. Richong Zhang. Before that, I obtained my Ph.D. degree from Beihang University in June 2025. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
 
 Publications
 ======
