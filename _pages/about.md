@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student at Beihang University, supervised by Prof. Richong Zhang. Before that, I received my Master's degree from Beihang University in 2019, also under the supervision of Prof. Zhang. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
+I am currently a postdoctoral researcher at the School of Software, Beihang University, supervised by Prof. Chunming Hu and Prof. Richong Zhang. Before that, I obtained my Ph.D. degree from Beihang University in June 2025. My research interests focus on Knowledge Graph Link Prediction and Text Data Augmentation.
 
 Publications
 ======
@@ -31,9 +31,10 @@ Publications
 
 ### Others
 
-1. Xuefeng Zhang, Richong Zhang, Xiaoyang Li, <u>Fanshuang Kong</u>, Junfan Chen, Samuel Mensah, and Yongyi Mao: Word Sense Disambiguation by Refining Target Word Embedding. **WWW 2023**.
-2. Yuhang Bai, Richong Zhang, <u>Fanshuang Kong</u>, Junfan Chen and Yongyi Mao: Hypernym Discovery via a Recurrent Mapping Model. **Findings of ACL 2021**.
-3. Richong Zhang, Samuel Mensah, <u>Fanshuang Kong</u>, Zhiyuan Hu, Yongyi Mao and Xudong Liu: Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities. **TOIS 2020**.
+1. Dezhi Liu, Richong Zhang, Junfan Chen, <u>Fanshuang Kong</u>, Jaein Kim: Incomplete Graph Learning via Data and Representation-level Interaction. **Knowledge-Based Systems 2025**.
+2. Xuefeng Zhang, Richong Zhang, Xiaoyang Li, <u>Fanshuang Kong</u>, Junfan Chen, Samuel Mensah, and Yongyi Mao: Word Sense Disambiguation by Refining Target Word Embedding. **WWW 2023**.
+3. Yuhang Bai, Richong Zhang, <u>Fanshuang Kong</u>, Junfan Chen and Yongyi Mao: Hypernym Discovery via a Recurrent Mapping Model. **Findings of ACL 2021**.
+4. Richong Zhang, Samuel Mensah, <u>Fanshuang Kong</u>, Zhiyuan Hu, Yongyi Mao and Xudong Liu: Pairwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities. **TOIS 2020**.
 
 
 <!--
